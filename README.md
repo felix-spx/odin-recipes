@@ -1,0 +1,1 @@
+A basic solution for the "Recipes" assignment of The Odin Project
